@@ -1,0 +1,26 @@
+.buttonOutlined {
+  border: 2px solid #242424 !important;
+  color: #242424 !important;
+  margin-left: 5px !important;
+  font-size: 1.5rem !important;
+}
+
+.buttonOutlined:hover {
+  border: 2px solid #242424;
+  background-color: #242424;
+  color: #242424;
+}
+
+.buttonContained {
+  border: 2px solid #bebebe !important;
+  background-color: #bebebe !important;
+  color: #242424 !important;
+  margin-right: 5px !important;
+  font-size: 1.5rem !important;
+}
+
+.buttonContained:hover {
+  border: 2px solid #242424;
+  background-color: #242424;
+  color: #242424;
+}
